@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="charging">Charging</string>
+    <string name="unplugged">Unplugged</string>
+    <string name="charge">Charge</string>
+    <string name="airplane">Airplane</string>
+    <string name="airplanemodeon">Flight Mode On</string>
+    <string name="airplanemodeoff">Flight Mode Off</string>
+    <string name="headset">Headset</string>
+    <string name="headsetplugged">Headset Plugged</string>
+    <string name="headsetunplugged">Headset Unplugged</string>
+</resources>

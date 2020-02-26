@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/charge"
+          android:title="@string/charge"
+          android:icon="@drawable/ic_battery_icon"/>
+    <item android:id="@+id/airplane"
+          android:title="@string/airplane"
+          android:icon="@drawable/ic_airplanemode_icon"/>
+    <item android:id="@+id/headset"
+          android:title="@string/headset"
+          android:icon="@drawable/ic_headset_icon"/>
+</menu>
